@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPreLoadData</string>
+    <string name="app_first_run">First Run</string>
+</resources>
